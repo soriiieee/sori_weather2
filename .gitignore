@@ -1,0 +1,6 @@
+/env
+/dat
+/bin
+/out
+*.csv
+*.mp4
